@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: '/',
+    pathPrefix: "/mighty-anemone-8bfca",
     siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,

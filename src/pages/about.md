@@ -12,6 +12,6 @@ title: 'Pioner Engineering LLC '
 
 >"We decided to offer the fastest turn around time with competitive pricing because we want to provide timely and effective service to all of our customers. This lets the savings be passed onto the homeowner and allow their home sale to proceed quickly."  <cite>Bill Klebesadel</cite>
 
-We use on-demand staffing and real-time data uploading to provider the quickest turn-around times to serve our clients. 
+We use on-demand staffing and real-time data uploading to provide the quickest turn-around times to serve our clients. 
 
-*Thank You for your buisness since 2014!"*
+*Thank You for your business since 2014!"*
